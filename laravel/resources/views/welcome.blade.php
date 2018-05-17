@@ -80,6 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Formulario Prueba IS2
+                    Es horrible D:
                 </div>
 
                 <div class="links">
