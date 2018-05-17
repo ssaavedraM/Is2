@@ -33,6 +33,10 @@ class ComposerStaticInit018467a452b2416b5e6447abd5ea155a
             'Whoops\\' => 7,
             'Webmozart\\Assert\\' => 17,
         ),
+        'U' => 
+        array (
+            'Unicodeveloper\\Emoji\\' => 21,
+        ),
         'T' => 
         array (
             'TijsVerkoyen\\CssToInlineStyles\\' => 31,
@@ -129,6 +133,10 @@ class ComposerStaticInit018467a452b2416b5e6447abd5ea155a
         'Webmozart\\Assert\\' => 
         array (
             0 => __DIR__ . '/..' . '/webmozart/assert/src',
+        ),
+        'Unicodeveloper\\Emoji\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/unicodeveloper/laravel-emoji/src',
         ),
         'TijsVerkoyen\\CssToInlineStyles\\' => 
         array (
@@ -3551,7 +3559,6 @@ class ComposerStaticInit018467a452b2416b5e6447abd5ea155a
         'Symfony\\Polyfill\\Php72\\Php72' => __DIR__ . '/..' . '/symfony/polyfill-php72/Php72.php',
         'Tests\\CreatesApplication' => __DIR__ . '/../..' . '/tests/CreatesApplication.php',
         'Tests\\Feature\\ExampleTest' => __DIR__ . '/../..' . '/tests/Feature/ExampleTest.php',
-        'Tests\\TestCase' => __DIR__ . '/../..' . '/tests/TestCase.php',
         'Tests\\Unit\\ExampleTest' => __DIR__ . '/../..' . '/tests/Unit/ExampleTest.php',
         'Text_Template' => __DIR__ . '/..' . '/phpunit/php-text-template/src/Template.php',
         'TheSeer\\Tokenizer\\Exception' => __DIR__ . '/..' . '/theseer/tokenizer/src/Exception.php',
@@ -3568,6 +3575,13 @@ class ComposerStaticInit018467a452b2416b5e6447abd5ea155a
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Property\\Property' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Property/Property.php',
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Rule\\Processor' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Rule/Processor.php',
         'TijsVerkoyen\\CssToInlineStyles\\Css\\Rule\\Rule' => __DIR__ . '/..' . '/tijsverkoyen/css-to-inline-styles/src/Css/Rule/Rule.php',
+        'Unicodeveloper\\Emoji\\Emoji' => __DIR__ . '/..' . '/unicodeveloper/laravel-emoji/src/Emoji.php',
+        'Unicodeveloper\\Emoji\\EmojiServiceProvider' => __DIR__ . '/..' . '/unicodeveloper/laravel-emoji/src/EmojiServiceProvider.php',
+        'Unicodeveloper\\Emoji\\Exceptions\\IsNull' => __DIR__ . '/..' . '/unicodeveloper/laravel-emoji/src/Exceptions/IsNull.php',
+        'Unicodeveloper\\Emoji\\Exceptions\\UnknownEmoji' => __DIR__ . '/..' . '/unicodeveloper/laravel-emoji/src/Exceptions/UnknownEmoji.php',
+        'Unicodeveloper\\Emoji\\Exceptions\\UnknownMethod' => __DIR__ . '/..' . '/unicodeveloper/laravel-emoji/src/Exceptions/UnknownMethod.php',
+        'Unicodeveloper\\Emoji\\Exceptions\\UnknownUnicode' => __DIR__ . '/..' . '/unicodeveloper/laravel-emoji/src/Exceptions/UnknownUnicode.php',
+        'Unicodeveloper\\Emoji\\Facades\\Emoji' => __DIR__ . '/..' . '/unicodeveloper/laravel-emoji/src/Facades/Emoji.php',
         'Webmozart\\Assert\\Assert' => __DIR__ . '/..' . '/webmozart/assert/src/Assert.php',
         'Whoops\\Exception\\ErrorException' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Exception/ErrorException.php',
         'Whoops\\Exception\\Formatter' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Exception/Formatter.php',
