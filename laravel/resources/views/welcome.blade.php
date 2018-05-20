@@ -77,8 +77,8 @@
             <div class="content">
                 <div class="title m-b-md">
                     Formulario Prueba IS2
-                    Es horrible D:
-
+                    weña
+                    <a class="w3-btn w3-hover-text-amber w3-card w3-circle" href="">{!! Emoji::findByName("wink")!!}</a>
                 </div>
 
                 <div class="links">
